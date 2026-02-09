@@ -4,7 +4,7 @@ React + TypeScript + Vite инструмент для автоматическо
 
 ## Демо
 
-**[Live Demo](https://your-openapi-splitter.vercel.app)**
+**[Live Demo](https://openapi-splitter.vercel.app/)**
 
 ## Стек
 - React 19.2.0
